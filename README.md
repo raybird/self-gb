@@ -76,12 +76,7 @@ docker run -d \
 
 ### VSCode 整合
 
-1. 在 VSCode 中安裝相關擴充套件 KILO Code
-2. 在擴充套件設定中設定 API 端點：
-   - 端點：http://localhost:8000
-   - 認證金鑰：與 `AUTH_TOKEN` 相同
-
-![VSCode 整合設定](image.png)
+請參考 [kilo-code/README.md](kilo-code/README.md) 文件了解如何設定 KILO Code 擴充套件。
 
 ## 📊 配額與限制
 
